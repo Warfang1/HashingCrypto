@@ -1,3 +1,4 @@
+#define WIN32_LEAN_AND_MEAN
 #include "crypto_utils.hpp"
 #include <cstring>
 #include <sodium.h>
